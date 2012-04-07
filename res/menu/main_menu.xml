@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/set_address"
+          android:title="Set Address" />
+    <item android:id="@+id/perf_msg_fast"
+          android:title="Msg Performance Fast" />
+</menu>
